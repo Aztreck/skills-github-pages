@@ -1,7 +1,6 @@
 ---
-title: Welcome to my blog
+title: Machine Learning
 ---
-## Machine Learning
 Machine learning is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and models that allow computers to learn and make predictions or decisions without being explicitly programmed. Instead of relying on explicit instructions, machine learning systems use data and statistical techniques to identify patterns, extract insights, and make informed predictions or take actions.
 
 
