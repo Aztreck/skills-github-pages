@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "Machine Learning"
 date: 2021-06-29
 ---
 # Machine Learning
